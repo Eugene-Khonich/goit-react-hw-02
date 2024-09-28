@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  padding-bottom: 20px;
+}
+.btn {
+  background-color: #e4dcdc;
+  border: 1px solid black;
+}
